@@ -4,13 +4,25 @@ title: Joe Roberts
 ---
 # Joe Roberts
 
-As a software developer working in the public sector, I pride myself on creating user-led services and working in lean agile teams. I am skilled in a variety of languages and can put my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
+As a software developer working predominantly on public sector projects, I pride myself on creating user-led services and working in lean agile and multidisciplinary teams. I am skilled in a wide variety of languages and can pu1t my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
 
 ## Experience
+
+`October 2020 - Present`
+__Software Engineer - DVLA__
+- Part of a Made Tech team delivering a new user journey for new drivers
+- Technologies used:
+  - NodeJS, running on AWS Lambda
+  - React frontend
+  - DynamoDB
+  - Ruby
+- As part of the start of this project, I worked to upskill the team on cloud technologies, including Kubernetes (not used on this project, but very prevelant within DVLA)
+- Following TDD and agile principles, along with GDS Service Standard and 12-factor app principles.
 
 `June 2020 - October 2020`
 __Software Engineer - NHS BSA__
 - Part of a Made Tech team to deliver a jobs board for the NHS.
+- Working on the project from Private Beta and progressing to Public Beta.
 - Technologies used:
   - Java Spring microservices forming the backend
   - NodeJS with Nunjucks using NHS.UK Frontend for the frontend
@@ -48,9 +60,19 @@ __Software Engineer - Made Tech__
 __DevOps Engineer - KPMG__
 - Working across a AWS/Azure estate to enable developers across the organisation to build and deploy applications and support the journey to live.
 - Primarily working in Terraform with Python scripts supporting my work.
-- Worked with MSSQL, hosted in AWS RDS and Azure SQL.
-- Built a Kubernetes platform in Azure AKS for application teams to use, including Istio, Jenkins pipelines for easy deployments.
-- Worked with developers to migrate content from being served by a .NET application to being hosted in S3 and served by Cloudfront.
+- Private Sector VAT Submission Application:
+  - A .NET Core application running in Azure App Service
+  - Using Azure SQL for database
+  - I acted as support for the developers and offered architecture advice
+- Personal Exemption Calculation Application
+  - A legacy .NET application designed to run on client systems.
+  - Using AWS Workspaces, provides Windows desktops for clients to use the application
+  - Application connected to MSSQL running on AWS RDS
+  - Built a series of support scripts and admin controls to support the creation of users and provisioning of new Workspaces
+- Kubernetes Platform for Tax Systems
+  - Built a new Kubernetes cluster on Azure AKS to support the modernisation of tax systems at KPMG
+  - Upskilled developers on using Docker and Kubernetes to build applications
+  - Used tools like Istio, Datadog and Azure Key Vault to augment the cluster and provide more functionality to developers
 
 `September 2017 - January 2019`
 __Software Engineer - Hello Soda__
