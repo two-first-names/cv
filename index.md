@@ -8,7 +8,7 @@ As a software developer working predominantly on public sector projects, I pride
 
 ## Skills
 
-- A variety of languages, including Java, Python, Ruby, JavaScrip
+- A variety of languages, including Java, Python, Ruby, JavaScript
 - AWS, Azure, GCP, GovPaaS
 - Databases; PostgreSQL, MSSQL, MongoDB, DynamoDB
 - Docker
