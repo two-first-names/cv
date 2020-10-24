@@ -9,7 +9,7 @@ title: Joe Roberts
 `June 2020 - October 2020`
 __Software Engineer - NHS Businesss Services Authority__
 - Part of a Made Tech team to deliver a jobs board for the NHS.
-- Technologies uses:
+- Technologies used:
   - Java Spring microservices forming the backend
   - NodeJS with Nunjucks using NHS.UK Frontend for the frontend
   - PostreSQL
