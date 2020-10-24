@@ -6,15 +6,24 @@ title: Joe Roberts
 
 As a software developer working predominantly on public sector projects, I pride myself on creating user-led services and working in lean agile and multidisciplinary teams. I am skilled in a wide variety of languages and can put my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
 
+## Languages
+
+- Java
+- Python
+- Ruby
+- JavaScript
+- TypeScript
+
 ## Skills
 
-- A variety of languages, including Java, Python, Ruby, JavaScript
 - AWS, Azure, GCP, GovPaaS
 - Databases; PostgreSQL, MSSQL, MongoDB, DynamoDB
 - Docker
 - Kubernetes
 - Git, using GitHub, GitLab and BitBucket
 - Linux/Unix, primarily working on Linux/MacOS
+- User-led design
+- TDD
 
 ## Experience
 
