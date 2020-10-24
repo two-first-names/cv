@@ -20,6 +20,7 @@ __Software Engineer - NHS BSA__
 - Worked in a rainbow team consisting of engineers, BA, UX Designer, User Researcher and a Delivery Manager.
 - Responsible for features and consulting with product owners on details.
 - Working in an agile team following TDD principles and a user-first approach to service design.
+- Building an accessible and bilingual service, taking the time to ensure all user facing content is localised in Welsh.
 
 `April 2020 - June 2020`
 __Software Engineer - Skills For Care__
@@ -33,6 +34,7 @@ __Software Engineer - Skills For Care__
 - Responsible for features and consulting with product owners on details.
 - Working in an agile team following TDD principles and a user-first approach to service design.
 - Following the GDS Service Standard and working to bring the project from Private Beta onwards to Live.
+- Taking the time and care to ensure all content is accessible and working along side UX Designers to ensure content follows GDS guidelines.
 
 `March 2020 - Present`
 __Software Engineer - Made Tech__
@@ -48,6 +50,7 @@ __DevOps Engineer - KPMG__
 - Primarily working in Terraform with Python scripts supporting my work.
 - Worked with MSSQL, hosted in AWS RDS and Azure SQL.
 - Built a Kubernetes platform in Azure AKS for application teams to use, including Istio, Jenkins pipelines for easy deployments.
+- Worked with developers to migrate content from being served by a .NET application to being hosted in S3 and served by Cloudfront.
 
 `September 2017 - January 2019`
 __Software Engineer - Hello Soda__
@@ -56,6 +59,7 @@ __Software Engineer - Hello Soda__
 - Built an ELK platform for centralised logging and monitoring, migrating from SaaS provided logging.
 - Migrated from ECS to Kubernetes, trialing EKS before settling on a self-hosted in EC2 Kubernetes set up.
 - Migrated from GitHub to self-hosted GitLab, using GitLab CI for all builds.
+- Used Cloudflare to serve and cache static content.
 
 ## Education
 
