@@ -42,6 +42,21 @@ __Software Engineer - Made Tech__
 - Contributed to and partly led the Diversity and Inclusivity initiative, working with leadership to bring it to the forefront of company policy and ensure diversity continued to grow.
 - I have been involved with the graduate scheme (Academy) to provide advice and feedback, in the form of running 'clinics', being open for questions and code reviews on their projects.
 
+`January 2019 - March 2020`
+__DevOps Engineer - KPMG__
+- Working across a AWS/Azure estate to enable developers across the organisation to build and deploy applications and support the journey to live.
+- Primarily working in Terraform with Python scripts supporting my work.
+- Worked with MSSQL, hosted in AWS RDS and Azure SQL.
+- Built a Kubernetes platform in Azure AKS for application teams to use, including Istio, Jenkins pipelines for easy deployments.
+
+`September 2017 - January 2019`
+__Software Engineer - Hello Soda__
+- Working with Scala and Python codebases to build a social media analytics platform, with exposure to R.
+- Platform was docker based, hosted in AWS ECS, using MongoDB (hosted in EC2) for its database and RabbitMQ for queueing.
+- Built an ELK platform for centralised logging and monitoring, migrating from SaaS provided logging.
+- Migrated from ECS to Kubernetes, trialing EKS before settling on a self-hosted in EC2 Kubernetes set up.
+- Migrated from GitHub to self-hosted GitLab, using GitLab CI for all builds.
+
 ## Education
 
 `November 2019`
