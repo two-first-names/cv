@@ -7,7 +7,7 @@ title: Joe Roberts
 ## Experience
 
 `June 2020 - October 2020`
-__Software Engineer - NHS Business Services Authority__
+__Software Engineer - NHS BSA__
 - Part of a Made Tech team to deliver a jobs board for the NHS.
 - Technologies used:
   - Java Spring microservices forming the backend
@@ -40,7 +40,7 @@ __Software Engineer - Made Tech__
 - Contributed to and partly led the Diversity and Inclusivity initiative, working with leadership to bring it to the forefront of company policy and ensure diversity continued to grow.
 - I have been involved with the graduate scheme (Academy) to provide advice and feedback, in the form of running 'clinics', being open for questions and code reviews on their projects.
 
-## Education/Certifications
+## Education
 
 `November 2019`
 __Amazon Web Services Solutions Architect - Professional__
