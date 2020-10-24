@@ -4,6 +4,8 @@ title: Joe Roberts
 ---
 # Joe Roberts
 
+As a software developer working in the public sector, I pride myself on creating user-led services and working in lean agile teams. I am skilled in a variety of languages and can put my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
+
 ## Experience
 
 `June 2020 - October 2020`
