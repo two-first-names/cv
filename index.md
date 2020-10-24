@@ -39,3 +39,17 @@ __Software Engineer - Made Tech__
 - Embraced the feedback culture, making sure to give regular and honest feedback to my colleagues and took any feedback I received into account.
 - Contributed to and partly led the Diversity and Inclusivity initiative, working with leadership to bring it to the forefront of company policy and ensure diversity continued to grow.
 - I have been involved with the graduate scheme (Academy) to provide advice and feedback, in the form of running 'clinics', being open for questions and code reviews on their projects.
+
+## Education/Certifications
+
+`November 2019`
+__Amazon Web Services Solutions Architect - Professional__
+
+`September 2019`
+__Google Cloud Certified Professional Cloud Architect__
+
+`July 2019`
+__Google Cloud Certified Associate Cloud Engineer__
+
+`2013-2016`
+__BSC Computer Science - Aberystwyth University__
