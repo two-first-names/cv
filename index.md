@@ -39,7 +39,7 @@ __Software Engineer - DVLA__
 - Following TDD and agile principles, along with GDS Service Standard and 12-factor app principles.
 
 `June 2020 - October 2020`
-__Software Engineer - NHS BSA__
+__Software Engineer - NHSBSA__
 - Part of a Made Tech team to deliver a jobs board for the NHS.
 - Working on the project from Private Beta and progressing to Public Beta.
 - Technologies used:
