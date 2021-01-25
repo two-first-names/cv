@@ -27,7 +27,7 @@ As a software developer working predominantly on public sector projects, I pride
 
 ## Experience
 
-`October 2020 - Present`
+`October 2020 - December 2020`
 __Software Engineer - DVLA__
 - Part of a Made Tech team delivering a new user journey for new drivers
 - Technologies used:
