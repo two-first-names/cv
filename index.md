@@ -105,7 +105,7 @@ __Software Engineer - Hello Soda__
 ## Education
 
 `November 2019`
-__Amazon Web Services Solutions Architect - Professional__
+__AWS Solutions Architect - Professional__
 
 `September 2019`
 __Google Cloud Certified Professional Cloud Architect__
