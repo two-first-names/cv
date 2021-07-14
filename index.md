@@ -27,6 +27,13 @@ As a software developer working predominantly on public sector projects, I pride
 
 ## Experience
 
+`March 2021 - Present`
+__Senior Software Engineer - Raytheon Systems Limited__
+- Working with a team of junior engineers to mentor and upskill while delivering a product to improve business processes.
+  - Using NodeJS (Express/React) and MySQL as a three tier system.
+  - Migrating from an onprem server setup to AWS.
+  - Working as a servant-leader, facilitating rituals and being available to mentor junior developers.
+
 `October 2020 - December 2020`
 __Software Engineer - DVLA__
 - Part of a Made Tech team delivering a new user journey for new drivers
@@ -67,7 +74,7 @@ __Software Engineer - Skills For Care__
 - Following the GDS Service Standard and working to bring the project from Private Beta onwards to Live.
 - Taking the time and care to ensure all content is accessible and working along side UX Designers to ensure content follows GDS guidelines.
 
-`March 2020 - Present`
+`March 2020 - Feburary 2021`
 __Software Engineer - Made Tech__
 - A consultant software engineer, working on a variety of agile, user-focused projects. (See above!)
 - While not working on projects; between projects and using time allocated for learning, I worked to learn more about the technologies I would be using and also give back in the form of showcases and presentations.
