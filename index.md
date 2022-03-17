@@ -2,21 +2,14 @@
 layout: cv
 title: Joe Roberts
 ---
-# Joe Roberts (They/Them)
+# Joe Roberts (They/Them) BSc (Hons), MBCS, CITP
 
-As a software developer working predominantly on public sector projects, I pride myself on creating user-led services and working in lean agile and multidisciplinary teams. I am skilled in a wide variety of languages and can put my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
-
-## Languages
-
-- Java
-- Python
-- Ruby
-- JavaScript
-- TypeScript
+As a Software Developer and DevOps Engineer working predominantly on public sector projects, I pride myself on creating user-led services and working in lean agile and multidisciplinary teams. I am skilled in a wide variety of languages and can put my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
 
 ## Skills
 
-- AWS, Azure, GCP, GovPaaS
+- Languages: Java, Python, Ruby, JavaScript, TypeScript, Go, Scala
+- AWS, Azure, GCP, GovPaaS (CloudFoundry)
 - Databases; PostgreSQL, MSSQL, MongoDB, DynamoDB
 - Docker
 - Kubernetes
@@ -33,6 +26,14 @@ __Senior Software Engineer - Raytheon Systems Limited__
   - Using NodeJS (Express/React) and MySQL as a three tier system.
   - Migrating from an onprem server setup to AWS.
   - Working as a servant-leader, facilitating rituals and being available to mentor junior developers.
+- Building a data driven metrics pipeline
+  - A microservices architecture with components written in Java, Python and JavaScript.
+  - Microservices deployed to Kubernetes, using Helm and Concourse for CI/CD.
+  - I built templated pipelines to provide repeatable functionality; testing, security scanning, image building.
+  - Using Terraform and Ansible for external to cluster components; ElasticSearch, Kafka, Prometheus, developer instances.
+  - As part of a FinOps exercise, I lowered costs by approx $1000/mo by consolidating resources and introducing uptime automation, bringing efficiency and reliability increases in addition to reducing cost.
+  - I worked to promote developer relations with both product owners and other teams within the organisation, sharing knowledge on approaches to organisation specific practices.
+  - Working within the team, upskilled people on DevOps/SRE practices, bringing knowledge such as Ansible and Terraform, but also practices such as cost saving, AWS Well Architected and security practices.
 
 `October 2020 - December 2020`
 __Software Engineer - DVLA__
