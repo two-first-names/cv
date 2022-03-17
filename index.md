@@ -26,7 +26,7 @@ __Senior Software Engineer - Raytheon Systems Limited__
   - Using NodeJS (Express/React) and MySQL as a three tier system.
   - Migrating from an onprem server setup to AWS.
   - Working as a servant-leader, facilitating rituals and being available to mentor junior developers.
-- Building a data driven metrics pipeline
+- Building a data driven metrics pipeline designed to scale to billions of daily messages
   - A microservices architecture with components written in Java, Python and JavaScript.
   - Microservices deployed to Kubernetes, using Helm and Concourse for CI/CD.
   - I built templated pipelines to provide repeatable functionality; testing, security scanning, image building.
