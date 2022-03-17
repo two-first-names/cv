@@ -21,7 +21,7 @@ As a Software Developer and DevOps Engineer working predominantly on public sect
 ## Experience
 
 `March 2021 - Present`
-__Senior Software Engineer - Raytheon Systems Limited__
+__Senior Software Engineer - Raytheon UK__
 - Working with a team of junior engineers to mentor and upskill while delivering a product to improve business processes.
   - Using NodeJS (Express/React) and MySQL as a three tier system.
   - Migrating from an onprem server setup to AWS.
