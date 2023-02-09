@@ -2,7 +2,7 @@
 layout: cv
 title: Joe Roberts
 ---
-# Joe Roberts (They/Them) BSc (Hons), MBCS, CITP
+# Joe Roberts (They/Them)
 
 As a Software Developer and DevOps Engineer working predominantly on public sector projects, I pride myself on creating user-led services and working in lean agile and multidisciplinary teams. I am skilled in a wide variety of languages and can put my skills to any challenge, bringing methodologies such as Clean Architecture, TDD, Hexagonal Architecture and more.
 
@@ -20,7 +20,17 @@ As a Software Developer and DevOps Engineer working predominantly on public sect
 
 ## Experience
 
-`March 2021 - Present`
+`August 2022 - Present`
+__Site Reliability Engineer - Government Digital Service__
+- At GDS, I have supported the delivery and reliability of the One Login for Government programme.
+- This has used a variety of technologies in the stack, not limited to; Cloudformation, CodePipeline, CodeBuild, Lambda, ECS, API Gateway, WAF.
+- Part of my role was to support the 'developer platform', a suite of pipelines and tools to make secure delivery easier.
+- Providing second line support to an ageing service in the product stack, ensuring it continues to work with the rest of the product while it is being decomissioned.
+- Working with developers and other roles in the team to realise architectural decisions in infrastructure, and keep it running smoothly.
+- I am currently leading an initiative to replace our ageing CI/CD infrastructure, particularly looking at aligning with practices set out by the developer platform and investigating utilising newer tooling such as CDK.
+- I am the Chair of the LGBT+ Network, working to represent LGBT+ people in GDS and working with other networks across government.
+
+`March 2021 - August 2022`
 __Senior Software Engineer - Raytheon UK__
 - Working with a team of junior engineers to mentor and upskill while delivering a product to improve business processes.
   - Using NodeJS (Express/React) and MySQL as a three tier system.
