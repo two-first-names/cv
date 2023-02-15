@@ -21,7 +21,7 @@ As a Software Developer and DevOps Engineer working predominantly on public sect
 ## Experience
 
 `August 2022 - Present`
-__Site Reliability Engineer - Government Digital Service__
+__Site Reliability Engineer - GDS__
 - At GDS, I have supported the delivery and reliability of the One Login for Government programme.
 - This has used a variety of technologies in the stack, not limited to; Cloudformation, CodePipeline, CodeBuild, Lambda, ECS, API Gateway, WAF.
 - Part of my role was to support the 'developer platform', a suite of pipelines and tools to make secure delivery easier.
