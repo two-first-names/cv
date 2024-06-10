@@ -20,7 +20,17 @@ As a Software Developer and DevOps Engineer working predominantly on public sect
 
 ## Experience
 
-`August 2022 - Present`
+`April 2023 - Present`
+__Senior Site Reliability Engineer - GDS__
+- I have led the Observability team of One Login, working across the programme to implement best practice and improve our reliability posture.
+- Working with teams to implement Service Level Indications/Objectives, tracing to Lambda and ECS services, and make sense of it all.
+- Used a mix of Terraform and CloudFormation to build infrastructure to support observability, including templating dashboards and utilising AWS Organizations and StackSets to deploy cross-account monitoring resources.
+- Managed a JML process for a SaaS observability product, working alongside other teams to create a smooth process using Terraform and YAML files to declare team membership.
+- Using GitHub Actions to automate the above infrastructure-as-code, minimising the amount of human intervention required.
+- Led various initiatives to improve observability and reliability, working with tech leads across One Login to implement solutions and ensure user needs were being met.
+- Working alongside technical architect and security to build secure and long-lived solutions, keeping in mind standards such as our own ADRs and OWASP Top 10, among others.
+
+`August 2022 - April 2023`
 __Site Reliability Engineer - GDS__
 - At GDS, I have supported the delivery and reliability of the One Login for Government programme.
 - This has used a variety of technologies in the stack, not limited to; Cloudformation, CodePipeline, CodeBuild, Lambda, ECS, API Gateway, WAF.
